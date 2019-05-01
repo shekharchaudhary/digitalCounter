@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Counter from './components/counter';
 
+const style={
+  display: 'flex',
+  justifyContent:'center'
+}
+const style1={
+  width: '50vh',
+  height: '40vh',
+  marginTop:'20vh',
+  border:'1px solid violet',
+  borderRadius:'6px',
+  background:'#',
+  display: 'flex',
+  justifyContent:'center'
+}
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={style}>
+      <div style = {style1}>
+        < Counter />
+      </div>
     </div>
   );
 }
