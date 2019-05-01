@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/digitalCounter/static/js/main.ebdaa531.chunk.js",
+    "main.js.map": "/digitalCounter/static/js/main.ebdaa531.chunk.js.map",
+    "runtime~main.js": "/digitalCounter/static/js/runtime~main.1e2794b0.js",
+    "runtime~main.js.map": "/digitalCounter/static/js/runtime~main.1e2794b0.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/digitalCounter/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/digitalCounter/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/digitalCounter/index.html",
+    "precache-manifest.3f737ab32671fdb5f3d924b3a3013123.js": "/digitalCounter/precache-manifest.3f737ab32671fdb5f3d924b3a3013123.js",
+    "service-worker.js": "/digitalCounter/service-worker.js"
+  }
+}
